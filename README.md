@@ -1,4 +1,5 @@
-Toto je dokumentácia programu Wireshark spracovaná v slovenskom jazyku, upravená a preformátovaná.
-Dokument podlieha priebežným úpravám a vylepšeniam. Každú vecnú spätnú väzbu ocením.
+Toto je učebný materiál k programu Wireshark spracovaný a upravený do slovenského jazyka.
+
+Dokument sa priebežne aktualizuje a vylepšuje. Každú vecnú spätnú väzbu vítam.
 
 Link na YouTube: https://www.youtube.com/@NETwSAM
